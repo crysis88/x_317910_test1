@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-05-07 13:11:58">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Test1">cc721a01db113300c9fe7b3868961960</application>
+<application_name>Test1</application_name>
+<application_scope>x_317910_test1</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default 1</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>61992a09db513300c9fe7b3868961917</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-07 13:11:56</sys_created_on>
+<sys_id>2213638ddbd13300c9fe7b38689619e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-07 13:11:56</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+</unload>
