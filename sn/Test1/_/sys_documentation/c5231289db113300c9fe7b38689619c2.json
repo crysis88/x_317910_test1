@@ -1,0 +1,23 @@
+{
+  "element": "x_317910_test1_u_string_1",
+  "help": "",
+  "hint": "",
+  "label": "First Name",
+  "language": "en",
+  "name": "option",
+  "plural": "First Names",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-07 07:22:35",
+  "sys_id": "c5231289db113300c9fe7b38689619c2",
+  "sys_mod_count": 0,
+  "sys_name": "First Name",
+  "sys_package": "cc721a01db113300c9fe7b3868961960",
+  "sys_policy": "",
+  "sys_scope": "cc721a01db113300c9fe7b3868961960",
+  "sys_update_name": "sys_documentation_option_x_317910_test1_u_string_1_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-07 07:22:35",
+  "url": "",
+  "url_target": ""
+}
